@@ -176,7 +176,7 @@ display: flex;
 }
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/3349021.jpg);
+    --bg-url: url(./assets/semnome.jpg);
   }
   .light {
     --bg-url: url(./assets/4871703.jpg);
